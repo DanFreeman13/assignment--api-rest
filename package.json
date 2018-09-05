@@ -1,0 +1,14 @@
+{
+  "name": "hw21_node",
+  "version": "1.0.0",
+  "description": "node first homework",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DanFreeman",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
+}
